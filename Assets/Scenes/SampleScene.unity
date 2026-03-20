@@ -726,7 +726,7 @@ BoxCollider:
     serializedVersion: 2
     m_Bits: 0
   m_LayerOverridePriority: 0
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_ProvidesContacts: 0
   m_Enabled: 1
   serializedVersion: 3
@@ -1775,11 +1775,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5615102941429481987, guid: 25826a03cad2ac4419cf9e8fc2839828, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 6.53
+      value: -1.06
       objectReference: {fileID: 0}
     - target: {fileID: 5615102941429481987, guid: 25826a03cad2ac4419cf9e8fc2839828, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.1481
+      value: 0.15
       objectReference: {fileID: 0}
     - target: {fileID: 5615102941429481987, guid: 25826a03cad2ac4419cf9e8fc2839828, type: 3}
       propertyPath: m_LocalPosition.z
@@ -1969,7 +1969,7 @@ Rigidbody:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1388746938}
   serializedVersion: 5
-  m_Mass: 2
+  m_Mass: 1
   m_LinearDamping: 0
   m_AngularDamping: 0.05
   m_CenterOfMass: {x: 0, y: 0, z: 0}
@@ -1985,9 +1985,9 @@ Rigidbody:
   m_ImplicitTensor: 1
   m_UseGravity: 1
   m_IsKinematic: 0
-  m_Interpolate: 0
+  m_Interpolate: 1
   m_Constraints: 0
-  m_CollisionDetection: 0
+  m_CollisionDetection: 1
 --- !u!65 &1388746944
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -2003,7 +2003,7 @@ BoxCollider:
     serializedVersion: 2
     m_Bits: 0
   m_LayerOverridePriority: 0
-  m_IsTrigger: 1
+  m_IsTrigger: 0
   m_ProvidesContacts: 0
   m_Enabled: 1
   serializedVersion: 3
@@ -2035,7 +2035,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4660673893593760316, guid: f0505bf34cda4164095bbdbee980184f, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 5.429
+      value: -0.99
       objectReference: {fileID: 0}
     - target: {fileID: 4660673893593760316, guid: f0505bf34cda4164095bbdbee980184f, type: 3}
       propertyPath: m_LocalPosition.y
