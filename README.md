@@ -9,3 +9,8 @@ Modes de déplacment chosis :
 - Saut avec gravité
 - Téléportation
 
+Modalités d'interactions choisies : 
+- Grab direct de l'objet
+- Grab avec le rayon
+
+
